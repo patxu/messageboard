@@ -1,0 +1,14 @@
+Author: Patrick Xu
+
+MicroBlog
+
+A small microblogging server that was made as an introduction to flask. I followed a
+tutorial to create this and the website is linked in description of the repository. 
+
+The project is incomplete. I am able to run a basic server with serveral pages and a user 
+database, but many parts of remain incomplete.
+
+The project is based on flask and served as an introduction to web development. More details
+about the project can be found the tutorial.
+
+to run: ./run.py
